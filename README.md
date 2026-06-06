@@ -1,4 +1,4 @@
-# Hi, I'm Singo Loua 👋
+# Bonjour, I'm Singo Loua 👋
 ### Founder of VisaJobCI | Applied Data Scientist | Computer Engineer | Co-Founder of CypruServices.com
 
 I am an **Applied Data Scientist** and **Computer Engineer (MSc)** passionate about developing intelligence-driven applications, data-intensive systems, and decentralized applications (dApps). I specialize in bridging the gap between advanced machine learning models, visual analytics, and production-ready software systems.
