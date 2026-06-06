@@ -70,9 +70,14 @@ I am an **Applied Data Scientist** and **Computer Engineer (MSc)** passionate ab
 * **[MailBox 2023](https://github.com/singoloua/MailBox_2023)**
   * A secure messaging system leveraging modern web standards.
 
-* **[BLOCKCHAIN-TECHNOLOGY 2023](https://github.com/singoloua/BLOCKCHAIN-TECHNOLOGY_2023)**
+* **[SingoCrypt — Blockchain Transaction Platform](https://github.com/singoloua/BLOCKCHAIN-TECHNOLOGY_2023)**
   * Hardhat-based blockchain demo highlighting smart contracts and solving banking challenges.
+  * 🌐 **[Try the Live Web App](https://singoloua.github.io/BLOCKCHAIN-TECHNOLOGY_2023/)**
   * 📺 **[Watch the YouTube Video Tutorial](https://youtu.be/1FTCXYVfUDo?si=Ss41WVu7MqyZoUwe)**
+
+<p align="left">
+  <img src="images/singocrypt.png" width="700" alt="SingoCrypt Web3 App">
+</p>
 
 ---
 
